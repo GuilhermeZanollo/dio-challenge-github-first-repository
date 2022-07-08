@@ -1,1 +1,14 @@
-jjjjjjjjjjjjjjjjjjjjj
+Link para download do Git:https://git-scm.com/downloads
+
+O Git é um sistema seguro e distribuído.
+
+O Git Bash é um terminal extendido para otmizar o uso do Git, interligado com o Github
+
+Principais códigos Git:https://git-scm.com/downloads
+
+Chave SSH -> Forma de estabelecer uma conexão segura e encriptada entre 2 máquinas.
+
+Markdown é uma forma mais humana que o HTML. Markdown X Navegador X HTML
+
+Objetos internos do Git: Blobs, Trees, Commits
+
