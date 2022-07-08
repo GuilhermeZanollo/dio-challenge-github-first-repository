@@ -10,5 +10,5 @@ Chave SSH -> Forma de estabelecer uma conexão segura e encriptada entre 2 máquin
 
 Markdown é uma forma mais humana que o HTML. Markdown X Navegador X HTML
 
-Objetos internos do Git: Blobs, Trees, Commits
+Objetos internos do Git: Blobs, Trees, Commits.
 
